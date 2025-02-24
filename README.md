@@ -7,7 +7,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
+	<!--<img src="https://komarev.com/ghpvc/?username=MikelRojas&label=Profile%20views&color=0047AB&style=plastic?" alt="Mikel" height=25px, width=160px/>  -->
 	<!---
 		<a href = "https://commits.top/egypt.html" target="_blank">
 			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
@@ -54,17 +54,6 @@
 
 <br> 
 
-
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
-
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
-
-----	
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MikelRojas&theme=dark)](https://git.io/streak-stats)
-
-</details>
-  
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
 ----
@@ -87,8 +76,8 @@
 	
 <div>
   <p align="center">
-	<a href="https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/MikelRojas/Event-Master">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MikelRojas&repo=Event-Master&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
 </div>
@@ -96,8 +85,3 @@
 
 </br></br>
 	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
